@@ -1,0 +1,7 @@
+return {
+  default = {
+    lpath = "src/resources/?.lua",
+    coverage = true,
+    verbose = true
+  }
+}

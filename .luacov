@@ -1,0 +1,4 @@
+include = {
+   "src/resources$",      -- the main module
+   "src%/resources%/.+$",  -- and everything namespaced underneath it
+}
